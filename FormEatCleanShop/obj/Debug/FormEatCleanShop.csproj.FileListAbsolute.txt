@@ -1,0 +1,12 @@
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\bin\Debug\FormEatCleanShop.exe.config
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\bin\Debug\FormEatCleanShop.exe
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\bin\Debug\FormEatCleanShop.pdb
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.csprojAssemblyReference.cache
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.Properties.Resources.resources
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.csproj.GenerateResource.cache
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.exe
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.pdb
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.Home.resources
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.Login.resources
+D:\Admin\Documents\FormEatCleanShop\FormEatCleanShop\obj\Debug\FormEatCleanShop.Signup.resources
