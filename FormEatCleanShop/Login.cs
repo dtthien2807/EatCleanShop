@@ -39,6 +39,9 @@ namespace FormEatCleanShop
                 if (code == 1)
                 {
                     MessageBox.Show("Congratulation " + NameLogin + " login success", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    FormMenu menu = new FormMenu();
+                    menu.Show();
+                    this.Hide();
                     
                 }
                 else if (code == 2)
